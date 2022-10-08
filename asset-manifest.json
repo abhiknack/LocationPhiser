@@ -1,15 +1,15 @@
 {
-  "main.css": "/LocationPhiser/static/css/main.cf25b5da.chunk.css",
-  "main.js": "/LocationPhiser/static/js/main.9bc85e58.chunk.js",
-  "main.js.map": "/LocationPhiser/static/js/main.9bc85e58.chunk.js.map",
-  "runtime~main.js": "/LocationPhiser/static/js/runtime~main.74f40ca8.js",
-  "runtime~main.js.map": "/LocationPhiser/static/js/runtime~main.74f40ca8.js.map",
-  "static/js/2.8e9978c4.chunk.js": "/LocationPhiser/static/js/2.8e9978c4.chunk.js",
-  "static/js/2.8e9978c4.chunk.js.map": "/LocationPhiser/static/js/2.8e9978c4.chunk.js.map",
-  "static/js/3.ec459d4c.chunk.js": "/LocationPhiser/static/js/3.ec459d4c.chunk.js",
-  "static/js/3.ec459d4c.chunk.js.map": "/LocationPhiser/static/js/3.ec459d4c.chunk.js.map",
-  "index.html": "/LocationPhiser/index.html",
-  "precache-manifest.8511433de86e13d004fe02e25dd0519e.js": "/LocationPhiser/precache-manifest.8511433de86e13d004fe02e25dd0519e.js",
-  "service-worker.js": "/LocationPhiser/service-worker.js",
-  "static/css/main.cf25b5da.chunk.css.map": "/LocationPhiser/static/css/main.cf25b5da.chunk.css.map"
+  "main.css": "/locationphiser/static/css/main.cf25b5da.chunk.css",
+  "main.js": "/locationphiser/static/js/main.9bc85e58.chunk.js",
+  "main.js.map": "/locationphiser/static/js/main.9bc85e58.chunk.js.map",
+  "runtime~main.js": "/locationphiser/static/js/runtime~main.e74d0aa5.js",
+  "runtime~main.js.map": "/locationphiser/static/js/runtime~main.e74d0aa5.js.map",
+  "static/js/2.e3103cfb.chunk.js": "/locationphiser/static/js/2.e3103cfb.chunk.js",
+  "static/js/2.e3103cfb.chunk.js.map": "/locationphiser/static/js/2.e3103cfb.chunk.js.map",
+  "static/js/3.ec459d4c.chunk.js": "/locationphiser/static/js/3.ec459d4c.chunk.js",
+  "static/js/3.ec459d4c.chunk.js.map": "/locationphiser/static/js/3.ec459d4c.chunk.js.map",
+  "index.html": "/locationphiser/index.html",
+  "precache-manifest.6cee8418a8297b5027f75c03f7dcca64.js": "/locationphiser/precache-manifest.6cee8418a8297b5027f75c03f7dcca64.js",
+  "service-worker.js": "/locationphiser/service-worker.js",
+  "static/css/main.cf25b5da.chunk.css.map": "/locationphiser/static/css/main.cf25b5da.chunk.css.map"
 }
