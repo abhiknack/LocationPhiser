@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/fbphoto/precache-manifest.bdf9b4c4d62213f4df287906a8812e9b.js"
+  "/LocationPhiser/precache-manifest.8511433de86e13d004fe02e25dd0519e.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/fbphoto/index.html", {
+workbox.routing.registerNavigationRoute("/LocationPhiser/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

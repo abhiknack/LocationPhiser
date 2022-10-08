@@ -1,15 +1,15 @@
 {
-  "main.css": "/fbphoto/static/css/main.c78319a3.chunk.css",
-  "main.js": "/fbphoto/static/js/main.d7f1ed7a.chunk.js",
-  "main.js.map": "/fbphoto/static/js/main.d7f1ed7a.chunk.js.map",
-  "runtime~main.js": "/fbphoto/static/js/runtime~main.caafc877.js",
-  "runtime~main.js.map": "/fbphoto/static/js/runtime~main.caafc877.js.map",
-  "static/js/2.7a7dfbb7.chunk.js": "/fbphoto/static/js/2.7a7dfbb7.chunk.js",
-  "static/js/2.7a7dfbb7.chunk.js.map": "/fbphoto/static/js/2.7a7dfbb7.chunk.js.map",
-  "static/js/3.ec459d4c.chunk.js": "/fbphoto/static/js/3.ec459d4c.chunk.js",
-  "static/js/3.ec459d4c.chunk.js.map": "/fbphoto/static/js/3.ec459d4c.chunk.js.map",
-  "index.html": "/fbphoto/index.html",
-  "precache-manifest.bdf9b4c4d62213f4df287906a8812e9b.js": "/fbphoto/precache-manifest.bdf9b4c4d62213f4df287906a8812e9b.js",
-  "service-worker.js": "/fbphoto/service-worker.js",
-  "static/css/main.c78319a3.chunk.css.map": "/fbphoto/static/css/main.c78319a3.chunk.css.map"
+  "main.css": "/LocationPhiser/static/css/main.cf25b5da.chunk.css",
+  "main.js": "/LocationPhiser/static/js/main.9bc85e58.chunk.js",
+  "main.js.map": "/LocationPhiser/static/js/main.9bc85e58.chunk.js.map",
+  "runtime~main.js": "/LocationPhiser/static/js/runtime~main.74f40ca8.js",
+  "runtime~main.js.map": "/LocationPhiser/static/js/runtime~main.74f40ca8.js.map",
+  "static/js/2.8e9978c4.chunk.js": "/LocationPhiser/static/js/2.8e9978c4.chunk.js",
+  "static/js/2.8e9978c4.chunk.js.map": "/LocationPhiser/static/js/2.8e9978c4.chunk.js.map",
+  "static/js/3.ec459d4c.chunk.js": "/LocationPhiser/static/js/3.ec459d4c.chunk.js",
+  "static/js/3.ec459d4c.chunk.js.map": "/LocationPhiser/static/js/3.ec459d4c.chunk.js.map",
+  "index.html": "/LocationPhiser/index.html",
+  "precache-manifest.8511433de86e13d004fe02e25dd0519e.js": "/LocationPhiser/precache-manifest.8511433de86e13d004fe02e25dd0519e.js",
+  "service-worker.js": "/LocationPhiser/service-worker.js",
+  "static/css/main.cf25b5da.chunk.css.map": "/LocationPhiser/static/css/main.cf25b5da.chunk.css.map"
 }
