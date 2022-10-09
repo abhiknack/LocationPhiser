@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/locationphiser/precache-manifest.6cee8418a8297b5027f75c03f7dcca64.js"
+  "/LocationPhiser/precache-manifest.8511433de86e13d004fe02e25dd0519e.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/locationphiser/index.html", {
+workbox.routing.registerNavigationRoute("/LocationPhiser/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
