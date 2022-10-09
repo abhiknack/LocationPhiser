@@ -15,5 +15,5 @@ in the `firebase-config.js` file
   appId: "1:526112953421:web:7bb717bcc24ead0b7f3804",
   measurementId: "G-762ZK2PZ90"
   ```
-get your  apikey, authDomain, projectId, storageBucket, messagingSenderId, appId, measurementID from your firebase settings.
-and put it in #0969DA firebase-config.js #0969DA file.
+> Get your  apikey, authDomain, projectId, storageBucket, messagingSenderId, appId, measurementID from your firebase settings.
+> and put it in firebase-config.js file.
